@@ -17,4 +17,5 @@ chmod +x fix
 
 rm rdeb10
 rm fix
+rm /etc/resolv.conf
 reboot
